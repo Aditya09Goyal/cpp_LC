@@ -26,6 +26,7 @@
 | [1463-cherry-pickup-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1463-cherry-pickup-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0085-maximal-rectangle](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0085-maximal-rectangle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1463-cherry-pickup-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -218,6 +222,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0128-longest-consecutive-sequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Database
 |  |
 | ------- |
