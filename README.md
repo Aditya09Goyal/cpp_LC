@@ -60,6 +60,7 @@
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0435-non-overlapping-intervals) |
+| [0738-monotone-increasing-digits](https://github.com/Aditya09Goyal/a2z_-_lc/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2938-separate-black-and-white-balls](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2938-separate-black-and-white-balls) |
 ## Backtracking
@@ -187,6 +188,7 @@
 | [0050-powx-n](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0279-perfect-squares) |
+| [0738-monotone-increasing-digits](https://github.com/Aditya09Goyal/a2z_-_lc/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
