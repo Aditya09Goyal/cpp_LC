@@ -24,6 +24,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
 | [1463-cherry-pickup-ii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1463-cherry-pickup-ii) |
+| [1695-maximum-erasure-value](https://github.com/Aditya09Goyal/a2z_-_lc/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -97,6 +98,7 @@
 | [0355-design-twitter](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0355-design-twitter) |
 | [0981-time-based-key-value-store](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0981-time-based-key-value-store) |
 | [1345-jump-game-iv](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1345-jump-game-iv) |
+| [1695-maximum-erasure-value](https://github.com/Aditya09Goyal/a2z_-_lc/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1797-design-authentication-manager](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1797-design-authentication-manager) |
 | [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 ## Breadth-First Search
@@ -236,4 +238,8 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/1683-invalid-tweets) |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1695-maximum-erasure-value](https://github.com/Aditya09Goyal/a2z_-_lc/tree/main/1695-maximum-erasure-value/) | Medium |
 <!---LeetCode Topics End-->
