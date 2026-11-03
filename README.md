@@ -29,6 +29,7 @@
 | [2013-detect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/2013-detect-squares) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Aditya09Goyal/a2z_-_lc/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@
 | [0279-perfect-squares](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0279-perfect-squares) |
 | [0738-monotone-increasing-digits](https://github.com/Aditya09Goyal/a2z_-_lc/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya09Goyal/a2z_-_lc/tree/master/0973-k-closest-points-to-origin) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya09Goyal/a2z_-_lc/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
